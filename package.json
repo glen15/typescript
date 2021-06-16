@@ -18,5 +18,8 @@
   "homepage": "https://github.com/glen15/typescript#readme",
   "devDependencies": {
     "tsc-watch": "^4.4.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
   }
 }
